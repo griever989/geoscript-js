@@ -1,5 +1,6 @@
 {
     "name": "geoscript",
+    "version": "1.0.0",
     "description": "Library for geospatial data access, manipulation, and rendering.",
     "author": "Tim Schaub",
     "dependencies": [],
